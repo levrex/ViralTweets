@@ -1,6 +1,5 @@
 # ViralTweets
-Classify the viral tweets
-
+Identifying Viral Tweets with a supervised classifier (Our guineau pig is Trump)
 
 ## Points to consider
 
