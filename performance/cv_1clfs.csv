@@ -1,0 +1,2 @@
+,Classifier,Ac,Auc,Time.2,Ac_rank,Time_rank,C-rank
+0,MultinomialNB()1,0.7519204139959061,0.49979101621778116,4.180651664733887,1.0,1.0,1.0
